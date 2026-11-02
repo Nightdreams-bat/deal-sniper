@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="supermarket-deals" width="100%">
+<img src="assets/header-deal-sniper.png" alt="Deal Sniper" width="100%">
 
 **A zero-dependency Python pipeline that scrapes every supermarket promo in Linz, ranks it
 against your shopping list, and sends it to Telegram every morning.**
